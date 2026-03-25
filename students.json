@@ -1,0 +1,23 @@
+[
+    {
+        "id": "42",
+        "name": "ghf",
+        "course": "AI",
+        "fee": "55628",
+        "status": "Pending"
+    },
+    {
+        "id": 44,
+        "name": "vb",
+        "course": "AI",
+        "fee": "56666",
+        "status": "Pending"
+    },
+    {
+        "id": "45",
+        "name": "dcsd",
+        "course": "Data Science",
+        "fee": "64456",
+        "status": "Paid"
+    }
+]
